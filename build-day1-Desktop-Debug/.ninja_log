@@ -42,3 +42,12 @@
 94	3773	1737250043439210818	CMakeFiles/day1.dir/mainwindow.cpp.o	285e55716a4515ae
 3773	4403	1737250044067216509	day1	ddf8a98344be0947
 1	26	0	/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/cmake.verify_globs	72be7a5703b7b6b7
+0	19	0	/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/cmake.verify_globs	72be7a5703b7b6b7
+3	51	1737252264382681058	day1_autogen/timestamp	3955b4cb4d62fa49
+3	51	1737252264382681058	day1_autogen/mocs_compilation.cpp	3955b4cb4d62fa49
+3	51	1737252264382681058	/home/respecter8/learning/build-day1-Desktop-Debug/day1_autogen/timestamp	3955b4cb4d62fa49
+3	51	1737252264382681058	/home/respecter8/learning/build-day1-Desktop-Debug/day1_autogen/mocs_compilation.cpp	3955b4cb4d62fa49
+53	2810	1737252267138718233	CMakeFiles/day1.dir/day1_autogen/mocs_compilation.cpp.o	cfda82de4c3fdded
+53	3202	1737252267530723518	CMakeFiles/day1.dir/main.cpp.o	c3ca2e40e89a2936
+54	3296	1737252267626724812	CMakeFiles/day1.dir/mainwindow.cpp.o	285e55716a4515ae
+3296	3887	1737252268210732687	day1	ddf8a98344be0947
