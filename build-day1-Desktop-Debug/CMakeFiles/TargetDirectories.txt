@@ -1,0 +1,5 @@
+/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/day1.dir
+/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/day1_autogen_timestamp_deps.dir
+/home/respecter8/learning/build-day1-Desktop-Debug/CMakeFiles/day1_autogen.dir
